@@ -1,2 +1,2 @@
 # Stone-Paper-Scissor-Game
-It is my first game Repo with JS,CSS,HTML.
+It is my first game Repo using (JS,CSS,HTML) and PYTHON.
